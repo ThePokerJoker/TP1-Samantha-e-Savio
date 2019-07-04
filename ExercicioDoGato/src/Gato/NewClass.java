@@ -8,6 +8,10 @@ package Dafiti;
  *
  * @author aluno
  */
-public class NewClass {
-    
+public class Cliente {
+    String nome;
+    int idade;
+    String nascimento;
+    String sexo
+    String captcha
 }
